@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ikarandeepsingh
+- 👋 Hi, I’m Karandeep Singh
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Web Development
